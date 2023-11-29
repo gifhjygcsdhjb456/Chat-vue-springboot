@@ -44,6 +44,7 @@ npm run build
 
 5.新消息提醒
 
-![BI APH3A2IV06A4}9CO`TJM](https://github.com/gifhjygcsdhjb456/ChatClient/assets/93047027/66e157c3-aacb-40a1-97e2-57c806df9fc2)
+![Uploading 20231129213051.png…]()
+
 
 
