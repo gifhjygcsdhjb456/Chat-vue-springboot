@@ -31,7 +31,7 @@ npm run build
 
 ## 主要功能展示
 1.好友添加
-![image](https://github.com/gifhjygcsdhjb456/ChatClient/assets/93047027/5e2d3036-f871-443f-9367-6bb9b131b8dd)
+![J`T46R16Q LM7{M1XFT3E G](https://github.com/gifhjygcsdhjb456/ChatClient/assets/93047027/5ca0d4a5-69e1-443a-8a99-0e75bb2d8360)
 
 2.好友聊天
 ![image](https://github.com/gifhjygcsdhjb456/ChatClient/assets/93047027/80738780-fbde-41d4-ac52-013b7bd6ac6c)
@@ -43,4 +43,7 @@ npm run build
 ![image](https://github.com/gifhjygcsdhjb456/ChatClient/assets/93047027/edf2bcf9-23e0-497d-bbfd-5cc9c4a5d9a5)
 
 5.新消息提醒
-![image](https://github.com/gifhjygcsdhjb456/ChatClient/assets/93047027/96c10faa-ec3b-440c-a3e5-9ddbb6f88a09)
+
+![BI APH3A2IV06A4}9CO`TJM](https://github.com/gifhjygcsdhjb456/ChatClient/assets/93047027/66e157c3-aacb-40a1-97e2-57c806df9fc2)
+
+
