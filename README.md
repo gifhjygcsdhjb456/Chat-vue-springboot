@@ -44,7 +44,8 @@ npm run build
 
 5.新消息提醒
 
-![Uploading 20231129213051.png…]()
+![20231129213051](https://github.com/gifhjygcsdhjb456/ChatClient/assets/93047027/12e5b817-4be7-4ff8-9a84-0ecaa7a064d4)
+
 
 
 
