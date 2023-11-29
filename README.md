@@ -4,10 +4,14 @@
 ## Front-end Stack
 > `Vue`、`Vuex`、`Element-UI`、`Axios`、`ES6`、`WebSocket`、`WebRTC`等。
 >  'Springboot'、'FastDFS'、'Redis'、'MongoDB'、'Nginx'、'Socket'等
+> 
 ## Description
+-- 支持单聊和群聊，单聊允许在本地进行1v1语音和视频通话，允许发送文字、表情、图片、文件
+-- 对好友支持备注、分组功能，分组可以添加、修改、删除。
+-- 在线好友统计，在每个分组中可以查看当前在线好友的数量，并对在线好友的头像做高亮处理。
+-- 添加好友、添加群聊，在添加后需要对方同意。
+-- 日程管理，支持新建日程、删除日程的功能。
 
-支持单聊和群聊，允许在本地进行语音和视频通话
-```
 
 ## Build Setup
 
@@ -25,7 +29,7 @@ npm run build
 ## Reference
 > 前端界面参考：https://github.com/CCZX/wechat
 
-## 主要功能介绍
+## 主要功能展示
 1.好友添加
 ![image](https://github.com/gifhjygcsdhjb456/ChatClient/assets/93047027/5e2d3036-f871-443f-9367-6bb9b131b8dd)
 
@@ -37,3 +41,6 @@ npm run build
 
 4.多人群聊
 ![image](https://github.com/gifhjygcsdhjb456/ChatClient/assets/93047027/edf2bcf9-23e0-497d-bbfd-5cc9c4a5d9a5)
+
+5.新消息提醒
+![image](https://github.com/gifhjygcsdhjb456/ChatClient/assets/93047027/96c10faa-ec3b-440c-a3e5-9ddbb6f88a09)
